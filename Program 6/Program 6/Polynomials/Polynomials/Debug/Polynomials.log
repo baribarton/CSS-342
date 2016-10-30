@@ -1,0 +1,2 @@
+﻿  polynomial.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Jabari\Documents\Visual Studio 2015\Projects\Program 6\Program 6\Polynomials\Debug\Polynomials.exe'

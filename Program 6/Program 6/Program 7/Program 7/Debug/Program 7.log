@@ -1,0 +1,9 @@
+﻿  driver.cpp
+driver.obj : error LNK2019: unresolved external symbol "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class LongInt &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVLongInt@@@Z) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class LongInt const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVLongInt@@@Z) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "public: __thiscall LongInt::LongInt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0LongInt@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "public: __thiscall LongInt::LongInt(class LongInt const &)" (??0LongInt@@QAE@ABV0@@Z) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "public: __thiscall LongInt::LongInt(void)" (??0LongInt@@QAE@XZ) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "public: __thiscall LongInt::~LongInt(void)" (??1LongInt@@QAE@XZ) referenced in function _main
+driver.obj : error LNK2019: unresolved external symbol "public: class LongInt __thiscall LongInt::operator+(class LongInt const &)const " (??HLongInt@@QBE?AV0@ABV0@@Z) referenced in function _main
+C:\Users\Jabari\Documents\Visual Studio 2015\Projects\Program 6\Program 6\Program 7\Debug\Program 7.exe : fatal error LNK1120: 7 unresolved externals

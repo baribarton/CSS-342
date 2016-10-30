@@ -1,0 +1,4 @@
+﻿  driver.cpp
+c:\users\jabari\documents\visual studio 2015\projects\project6\project6\driver.cpp(8): warning C4101: 'item': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Jabari\documents\visual studio 2015\Projects\Project6\Debug\Lab 7.exe
+  Project6.vcxproj -> C:\Users\Jabari\documents\visual studio 2015\Projects\Project6\Debug\Lab 7.pdb (Partial PDB)

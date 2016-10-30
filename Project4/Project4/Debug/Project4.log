@@ -1,0 +1,9 @@
+﻿  Dragon.cpp
+c:\users\jabari\documents\visual studio 2015\projects\project4\project4\turtle.h(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  DragonDriver.cpp
+c:\users\jabari\documents\visual studio 2015\projects\project4\project4\turtle.h(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Project4.vcxproj -> c:\users\jabari\documents\visual studio 2015\Projects\Project4\Debug\Project4.exe
+  Project4.vcxproj -> c:\users\jabari\documents\visual studio 2015\Projects\Project4\Debug\Project4.pdb (Partial PDB)

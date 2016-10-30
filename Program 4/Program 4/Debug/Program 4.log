@@ -1,0 +1,10 @@
+﻿  mergesortImproved.cpp
+  driver.cpp
+c:\users\jabari\documents\visual studio 2015\projects\program 4\program 4\mergesortimproved.cpp(68): error C3861: 'min': identifier not found
+  c:\users\jabari\documents\visual studio 2015\projects\program 4\program 4\driver.cpp(72): note: see reference to function template instantiation 'void mergesortImproved<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\jabari\documents\visual studio 2015\projects\program 4\program 4\mergesortimproved.cpp(70): error C3861: 'min': identifier not found
+  Generating Code...

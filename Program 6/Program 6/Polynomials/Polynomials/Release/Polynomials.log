@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\jabari\documents\visual studio 2015\projects\program 6\program 6\polynomials\release\polynomials.exe' is denied.
+  polynomial.cpp
+  PolynomialDriver.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Jabari\Documents\Visual Studio 2015\Projects\Program 6\Program 6\Polynomials\Release\Polynomials.exe'

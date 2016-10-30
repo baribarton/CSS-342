@@ -1,0 +1,5 @@
+﻿  driver.cpp
+  mtflist.cpp.h
+c:\users\jabari\documents\visual studio 2015\projects\project5\project5\mtflist.cpp.h(44): error C2995: 'int MtfList<Object>::find(const Object &)': function template has already been defined
+  c:\users\jabari\documents\visual studio 2015\projects\project5\project5\mtflist.h(10): note: see declaration of 'MtfList<Object>::find'
+  Generating Code...
